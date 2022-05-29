@@ -70,7 +70,7 @@ params:
             enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
-    comments:  # 评论
+    comments: # 评论
         enabled: true
         provider: utterances
 
@@ -84,7 +84,9 @@ params:
         utterances:
             repo: volcano8/hugoblogtalks
             issueTerm: pathname
-            label:
+            label: 
+            theme: github-light
+
 
         remark42:
             host:
