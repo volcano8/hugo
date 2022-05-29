@@ -82,7 +82,7 @@ params:
             adminLabel:
 
         utterances:
-            repo: volcano8/hugoblogtalks.github.io
+            repo: volcano8/hugoblogtalks
             issueTerm: pathname
             label:
 
