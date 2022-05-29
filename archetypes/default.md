@@ -1,11 +1,14 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description: 
+slug: "{{ replace .Name "-" " " | title }}"
+description: "" 
 date: {{ .Date }}
 image: 
 math: 
 license: 
 hidden: false
-comments: true
-draft: true
+comments: false
+draft: false    
+categories: ["其他"]
+tags: ["笔记"]
 ---

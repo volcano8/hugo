@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://blog.volcano.tk/categories/</loc>
+    <lastmod>2022-05-29T01:32:05+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://blog.volcano.tk/tags/es/</loc>
+    <lastmod>2022-05-29T01:32:05+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://blog.volcano.tk/p/es%E6%95%B0%E6%8D%AE%E5%BB%B6%E8%BF%9F/</loc>
+    <lastmod>2022-05-29T01:32:05+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.volcano.tk/post/</loc>
+    <lastmod>2022-05-29T01:32:05+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.volcano.tk/tags/</loc>
+    <lastmod>2022-05-29T01:32:05+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.volcano.tk/</loc>
+    <lastmod>2022-05-29T01:32:05+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.volcano.tk/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-05-29T01:32:05+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.volcano.tk/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.volcano.tk/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.volcano.tk/links/</loc>
+  </url><url>
+    <loc>https://blog.volcano.tk/search/</loc>
+  </url><url>
+    <loc>https://blog.volcano.tk/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>

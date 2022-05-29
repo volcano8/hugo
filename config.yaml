@@ -39,6 +39,8 @@ permalinks:
 
 params:
     mainSections:
+        - study
+        - resource
         - post
     featuredImageField: image
     rssFullContent: true
@@ -54,11 +56,11 @@ params:
 
     sidebar:  # 左边栏
         emoji: 🍥
-        subtitle: 记录个人笔记
+        subtitle: 分享使知识增值
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/dog.jpg
 
     article:
         math: false
@@ -70,7 +72,7 @@ params:
 
     comments:  # 评论
         enabled: true
-        provider: disqus
+        provider: utterances
 
         disqusjs:
             shortname:
@@ -80,7 +82,7 @@ params:
             adminLabel:
 
         utterances:
-            repo:
+            repo: volcano8/hugoblogtalks.github.io
             issueTerm: pathname
             label:
 
@@ -194,7 +196,7 @@ params:
 menu:
     main:  # 左侧目录
         - identifier: home
-          name: 首页&关于
+          name: 首页
           url: /
           weight: -100 #权重
           params:
@@ -278,6 +280,6 @@ markup:  # 代码块配置
         codeFences: true
         guessSyntax: true
         lineNoStart: 1 
-        lineNos: false # 是否显示行号
+        lineNos: false # 是否显示行
         lineNumbersInTable: true
         tabWidth: 4
